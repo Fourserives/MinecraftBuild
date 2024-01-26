@@ -1,0 +1,3 @@
+name: CookForPlayer
+version: '${project.version}'
+main: minecraftbuild.cookforplayer.CookForPlayer
